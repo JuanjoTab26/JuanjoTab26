@@ -64,20 +64,8 @@ Mi objetivo es construir un perfil que combine:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 💻 Programación
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 📚 Actualmente aprendiendo
-
-- Python
-- R
-- Excel
-- Análisis estadístico
-- Visualización de datos
-- Modelamiento estadístico
-- Programación
+Actualmente continuo fortaleciendo mis capacidades en la programación, 
+orientándolas al análisis de los datos y la resolución de problemas. 
 
 ---
 
