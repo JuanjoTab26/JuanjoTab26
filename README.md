@@ -77,7 +77,8 @@ orientándolas al análisis de los datos y la resolución de problemas.
 
 El inglés es una herramienta importante para mi formación académica y profesional,
 especialmente para acceder a documentación, investigaciones y recursos relacionados con
-Estadística, Economía, Finanzas y Ciencia de Datos.
+Estadística, Economía, Finanzas y Ciencia de Datos. 
+Además de facilitarme la comunicación con personas del exterior.
 
 ---
 
