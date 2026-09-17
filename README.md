@@ -21,11 +21,16 @@ mediante métodos matemáticos y estadísticos.
 
 ---
 
-## 💰 Economía y Finanzas
+## 🚀 Objetivos profesionales
 
 Una de mis principales metas profesionales es especializarme en el área de 
 **Economía y Finanzas**, utilizando la Estadística como una herramienta para 
 analizar fenómenos económicos, financieros y de mercado.
+
+Me interesa desarrollar las capacidades necesarias para analizar datos, 
+construir modelos estadísticos y utilizar herramientas cuantitativas para 
+comprender problemas económicos y financieros.
+
 
 Me interesa especialmente aprender sobre:
 
@@ -97,27 +102,5 @@ Mi formación incluye áreas como:
 - 📉 Modelamiento estadístico
 
 ---
-
-## 🚀 Objetivos profesionales
-
-Quiero construir progresivamente un perfil profesional que combine el 
-pensamiento estadístico, las matemáticas y la programación con aplicaciones 
-en Economía y Finanzas.
-
-Me interesa desarrollar las capacidades necesarias para analizar datos, 
-construir modelos estadísticos y utilizar herramientas cuantitativas para 
-comprender problemas económicos y financieros.
-
----
-
-## 📂 Proyectos
-
-En este perfil iré compartiendo proyectos académicos y personales relacionados 
-con:
-
-📊 Análisis de datos  
-🐍 Python  
-📉 R  
-💰 Economía y Finanzas      
 
 ### 💡 Los datos cuentan historias; la estadística nos ayuda a entenderlas.
